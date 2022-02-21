@@ -7,7 +7,7 @@ metadata:
     nginx.ingress.kubernetes.io/ssl-redirect: "false"
 spec:
   rules:
-  - host: "34.83.244.165.nip.io"
+  - host: "a301d19dbd7114abc806f91bcf1d08ba-175158067.ap-south-1.elb.amazonaws.com"
     http:
       paths:
       - pathType: Prefix
